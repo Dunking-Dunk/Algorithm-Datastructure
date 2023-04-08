@@ -1,0 +1,50 @@
+What is an Algorithm?
+A process or set of steps to accomplish a certain task
+
+1. Devise a plan for solving problems
+2. Master common problem solving patterns
+
+PROBLEM SOLVING APPORCH
+How do you improve your problem solving skill?
+1. Understand the problem
+2. Explore Concrete Example
+3. Break it Down
+4. Solve/Simplify
+5. Look back and Refactor
+
+1.----------------------------------------------------------------------
+    1. Can i restate the problem in my own words?
+    2. What are the input that go into the problem?
+    3. What are the outputs that should come from the solution to the problem?
+    4. Can the output be determined from the inputs?
+    5. How should i label the important pieces of data that are a part of the problem
+-------------------------------------------------------------------------
+/////////////////////////////////////////////////////////////////////////
+2.-----------------------------------------------------------------------
+    1.Start with Simple Example
+    2.Progress to more Complex Example
+    3.Explore Example with Empty inputs
+    4.Explore Examples with Invalid input
+-------------------------------------------------------------------------
+/////////////////////////////////////////////////////////////////////////
+3.-----------------------------------------------------------------------
+    Explicitly write out the steps you need to take.
+    This forces you to think about the code you'll write before you write it, and helps you catch any lingering conceptual issues or misunderstandings before you dive in and have to worry about details (e.g. language syntax) as well.
+-------------------------------------------------------------------------
+/////////////////////////////////////////////////////////////////////////
+4.-----------------------------------------------------------------------
+    Find the core difficulty in what you're trying to do
+    Temporarily ignore that difficulty
+    Write a simplified solution
+    Then incorporate that difficulty back in
+-------------------------------------------------------------------------
+/////////////////////////////////////////////////////////////////////////
+5.-----------------------------------------------------------------------
+    REFACTORING QUESTIONS
+    Can you check the result?
+    Can you derive the result differently?
+    Can you understand it at a glance?
+    Can you use the result or method for some other problem?
+    Can you improve the performance of your solution?
+    Can you think of other ways to refactor?
+    How have other people solved this problem?

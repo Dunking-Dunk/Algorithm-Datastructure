@@ -1,0 +1,3 @@
+A dataStructure where each element has a priority.
+element with higher priorities are served before elements
+with lower priorities

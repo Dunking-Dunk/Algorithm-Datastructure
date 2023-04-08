@@ -1,0 +1,8 @@
+Very similiar to a binary search tree, but with some diffrent rules!
+
+in a MaxBinaryHeap, parent node are always larger than child nodes
+in a MinBinaryHeap, parent nodes are always smaller than child nodes
+
+why do we need binary heaps
+    Binary Heaps are used to implement priority queues which are very commonly used data structure
+    they are also used quite a bith with graph traversal algorithm

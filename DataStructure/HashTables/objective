@@ -1,0 +1,12 @@
+Explain what a hash table
+Define what hashing agorithm
+Discuss what makes a good hashing algorithm
+Understanding how collisions occur in a hash table
+Handle collisions using seprate chaining or linear probing
+
+Collection of key value pairs
+
+What is a hash tables?
+    hashtables are used to store key-value pairs
+    they are like arrays, but the keys are not ordered
+    unlike arrays, hash tables are fast for all

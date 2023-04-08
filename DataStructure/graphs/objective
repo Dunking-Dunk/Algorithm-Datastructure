@@ -1,0 +1,34 @@
+Explain what a graph is 
+Compare and contrast diffrent types of graphs and thier use cases in the real world
+Implement a graph using an adjacency list
+traverse through a graph using BFS AND DFS 
+Compare and contrast graph traversal algorithm
+
+
+What are graph?
+A graph dataStructure consists of a finite(and possibly mutable) set of vertices or nodes or points, together with a set of unordered pairs of these vertices for an underected graph or a set of ordered pairs for a directed graph
+
+uses:
+    social Networking
+    Location / Mapping
+    Routing Algorithms
+    Visual Hierarchy
+    File System Optimisations
+    EveryWhere 
+
+Essential Graph Term
+    vertex - a nodes
+    Edge - connectioon between nodes
+    weighted/unweighted - values assigned to distances between vertices
+    directed/undirected - direction assigned to distanced between vertices
+
+we use adjacency Matrix to store the graph
+
+Graph traversal uses
+    peer to peer networking
+    web crawlers
+    finding closest matches/recommendations
+    shortest path problem
+        gps navigation
+        solving mazes
+        ai

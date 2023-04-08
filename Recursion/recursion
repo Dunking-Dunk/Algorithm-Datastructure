@@ -1,0 +1,13 @@
+What is recursion?
+=> A process (a function in our case) that calls itself.
+
+You need a base to end the reccursion.
+
+Two essential parts of a recursive function:
+1.Base Case
+2.Different Input
+
+pitfall
+1.no base case
+2.forgetting to return or returning the wrong thing
+3.stack overflow

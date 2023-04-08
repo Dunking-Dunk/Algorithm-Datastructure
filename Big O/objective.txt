@@ -1,0 +1,41 @@
+Objectives
+
+1.Motivate the need for something like Big O Notation
+2.Describe what Big O Notation is
+3.Simplify Big O Expressions
+4.Define "Time Complexity" and "Space complexity"
+5.Evaluate the time complexity and space complexity of diffrent algorithms using Big O Notation
+6.Describe what a logarithm is
+-------------------------------------------------------------------------------------------------
+
+Introduction to Big O
+    *Big o Notation is a way to formalize fuzzy counting
+    *it allows us to talk formally about how the runtime of an algorithm grows as the input grows
+    *we won't care about the details only the trends
+
+Big O Notation:- 
+    We say that an algorithm is O(f(n)) if the number of simple operations the computer has to do is eventually less than a constant times f(n), as n increases
+
+    1. f(n) could be linear (f(n) = n)
+    2. f(n) could be quadratic (f(n) = n**2)
+    3. f(n) could be constant (f(n) = 1)
+    4. or it can also be in other form
+
+Rules of Big O Notation:-
+    * Constants does not matter.
+    * smaller term don't matter
+    * Arithematic operations are constant
+    * variable assignment is constant
+    * accessing elements in an array (by index) or object is constant
+    * in a loop, the complexity is the length of the loop times the complexity of whatever happens inside the loop
+
+Space Complexity:
+    most primitives (booleans, numbers , undefined, null) are constant space
+    string require O(n) space (where n is string length 0)
+
+common complexities: O(1), O(n), O(n2)
+
+logarithms:
+    The logarithm of a number roughly measure the number of time you can divide that number by 2 before you get a value less than or equal to one
+    log2 (8) = 3
+    log9 (81) = 2

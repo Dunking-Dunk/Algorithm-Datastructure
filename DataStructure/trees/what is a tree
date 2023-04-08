@@ -1,0 +1,24 @@
+A data structure that consists of nodes in a parent/child relationShip
+
+Lists - linear
+trees - non linear
+
+Root - is the top node of the tree
+child - a node directly connected to another node when moving away from the root node
+parent - the converse notation of child
+siblings - a group of nodes with the same parent
+leaf - a node with no children
+edge - the connection between one node and another
+
+application:-
+    HTML dom
+    network routing
+    abstract syntax tree
+    ai
+    computer folder structure
+    JSON
+
+Kinds of tree
+    trees
+    binary trees
+    binary search trees
